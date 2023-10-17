@@ -1,9 +1,13 @@
 # Hello, I’m Krzysztof Gebski 👋
 
 I worked on a project for a European software reseller, employing a flexible microservices approach.
+
 I utilized Java and Angular to create an efficient and user-friendly system, connecting everything through RESTful APIs. I managed data with MySQL and enabled real-time communication with Kafka. To maintain smooth operations, I used Jenkins for deployments and managed tasks ni Jira.
+
 My expertise extends to Java development, where I created solutions for pharmacies and medical clinics. Comprehensive testing played a pivotal role in ensuring the reliability of our software.
-In addition to my technical skils and project experience, I am highly motivated and always eager to learn, fostering my self-development
+
+In addition to my technical skils and project experience, I am highly motivated and always eager to learn, fostering my self-development.
+
 And my passion is sailing ⛵️
 
 ## 🧰 Tech Stack

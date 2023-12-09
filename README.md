@@ -2,7 +2,7 @@
 
 I worked on a project for a European software reseller, employing a flexible microservices approach.
 
-I utilized Java and Angular to create an efficient and user-friendly system, connecting everything through RESTful APIs. I managed data with MySQL and enabled real-time communication with Kafka. To maintain smooth operations, I used Jenkins for deployments and managed tasks ni Jira.
+I utilized Java and Angular to create an efficient and user-friendly system, connecting everything through RESTful APIs. I managed data with MySQL and enabled real-time communication with Kafka. To maintain smooth operations, I used Jenkins for deployments and managed tasks in Jira.
 
 My expertise extends to Java development, where I created solutions for pharmacies and medical clinics. Comprehensive testing played a pivotal role in ensuring the reliability of our software.
 
